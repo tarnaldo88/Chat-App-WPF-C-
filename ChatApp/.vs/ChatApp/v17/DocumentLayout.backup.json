@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\tarna\\source\\repos\\WPFChatApp\\Chat-App-WPF-C-\\ChatApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38CD398A-138E-41A3-83D2-1FB774FBA1FD}|ChatApp\\ChatApp.csproj|c:\\users\\tarna\\source\\repos\\wpfchatapp\\chat-app-wpf-c-\\chatapp\\chatapp\\mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{38CD398A-138E-41A3-83D2-1FB774FBA1FD}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{38CD398A-138E-41A3-83D2-1FB774FBA1FD}|ChatApp\\ChatApp.csproj|c:\\users\\tarna\\source\\repos\\wpfchatapp\\chat-app-wpf-c-\\chatapp\\chatapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{38CD398A-138E-41A3-83D2-1FB774FBA1FD}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -28,18 +24,6 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\tarna\\source\\repos\\WPFChatApp\\Chat-App-WPF-C-\\ChatApp\\ChatApp\\MVVM\\View\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "ChatApp\\MVVM\\View\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\tarna\\source\\repos\\WPFChatApp\\Chat-App-WPF-C-\\ChatApp\\ChatApp\\MVVM\\View\\MainWindow.xaml",
-              "RelativeToolTip": "ChatApp\\MVVM\\View\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-23T01:25:27.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\tarna\\source\\repos\\WPFChatApp\\Chat-App-WPF-C-\\ChatApp\\ChatApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ChatApp\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\tarna\\source\\repos\\WPFChatApp\\Chat-App-WPF-C-\\ChatApp\\ChatApp\\MainWindow.xaml",
@@ -50,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\tarna\\source\\repos\\WPFChatApp\\Chat-App-WPF-C-\\ChatApp\\ChatApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ChatApp\\MainWindow.xaml.cs",
